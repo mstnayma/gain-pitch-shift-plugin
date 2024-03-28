@@ -7,7 +7,7 @@ Features:
 - Pitch Shift: Modify the pitch of the audio signal by semitone intervals using another slider.
 
 Installation: 
-To use the TestTake2 plugin, follow these steps:
+To use the plugin, follow these steps:
 
 1. Download the appropriate plugin file for your platform.
 2. Copy the plugin file to your audio plugins directory.
